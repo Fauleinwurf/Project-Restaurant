@@ -17,7 +17,6 @@ class Restaurant
         $this->id = uniqid();
     }
 
-
     public function changeValidated(): void
     {
         $this->validated = !$this->validated;

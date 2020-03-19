@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33efebce-ed20-4a94-a983-6c644025884e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+    <list default="true" id="33efebce-ed20-4a94-a983-6c644025884e" name="Default Changelist" comment="sdf">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PHP/CLASSES/Restaurant.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/CLASSES/Restaurant.php" afterDir="false" />
     </list>
@@ -17,7 +16,34 @@
     </execution>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/NUFRIO" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -51,22 +77,39 @@
       <option name="presentableId" value="Default" />
       <updated>1584604120629</updated>
       <workItem from="1584604123426" duration="2269000" />
-      <workItem from="1584620088225" duration="1202000" />
+      <workItem from="1584620088225" duration="1935000" />
+      <workItem from="1584624044238" duration="318000" />
     </task>
+    <task id="LOCAL-00001" summary="sdf">
+      <created>1584621301262</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584621301262</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sdf" />
+    <option name="LAST_COMMIT_MESSAGE" value="sdf" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1075" y="425" key="#com.intellij.ide.util.MemberChooser.inPresentationMode" timestamp="1584620816244">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1075" y="425" key="#com.intellij.ide.util.MemberChooser.inPresentationMode/0.0.2560.1440@0.0.2560.1440" timestamp="1584620816244" />
-    <state x="901" y="318" key="CommitChangelistDialog2" timestamp="1584602782172">
+    <state x="901" y="318" key="CommitChangelistDialog2" timestamp="1584624103909">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="901" y="318" key="CommitChangelistDialog2/0.0.2560.1440@0.0.2560.1440" timestamp="1584602782172" />
+    <state x="901" y="318" key="CommitChangelistDialog2/0.0.2560.1440@0.0.2560.1440" timestamp="1584624103909" />
+    <state x="1115" y="638" width="355" height="165" key="Github.CreateGistDialog" timestamp="1584623924009">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1115" y="638" width="355" height="165" key="Github.CreateGistDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1584623924009" />
     <state x="1008" y="536" key="NewPhpClassDialog" timestamp="1584602798431">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
@@ -75,6 +118,14 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="782" y="364" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1584604274041" />
+    <state x="873" y="455" key="Vcs.Push.Dialog.v2" timestamp="1584621306863">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="873" y="455" key="Vcs.Push.Dialog.v2/0.0.2560.1440@0.0.2560.1440" timestamp="1584621306863" />
+    <state x="1090" y="639" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584624165602">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1090" y="639" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1440@0.0.2560.1440" timestamp="1584624165602" />
     <state x="943" y="325" width="672" height="678" key="search.everywhere.popup" timestamp="1584604246514">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
