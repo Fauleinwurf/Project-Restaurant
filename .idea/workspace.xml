@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33efebce-ed20-4a94-a983-6c644025884e" name="Default Changelist" comment="sdf">
-      <change afterPath="$PROJECT_DIR$/PHP/CLASSES/index.php" afterDir="false" />
+    <list default="true" id="33efebce-ed20-4a94-a983-6c644025884e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/PHP/CLASSES/_header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CLASSES/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/CLASSES/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +46,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../OOP/Cinema" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RunDashboard">
@@ -72,6 +75,14 @@
       <workItem from="1584604123426" duration="2269000" />
       <workItem from="1584620088225" duration="1202000" />
     </task>
+    <task id="LOCAL-00001" summary="added index.php">
+      <created>1584625807403</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584625807403</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +122,10 @@
         <option value="1" />
       </set>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added index.php" />
+    <option name="LAST_COMMIT_MESSAGE" value="added index.php" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1075" y="425" key="#com.intellij.ide.util.MemberChooser.inPresentationMode" />
