@@ -6,6 +6,17 @@
   <component name="ProjectId" id="1ZKzjexDEp0Ag4mFJc34pv0YGy8" />
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="901" y="318" key="CommitChangelistDialog2" timestamp="1584602782172">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="901" y="318" key="CommitChangelistDialog2/0.0.2560.1440@0.0.2560.1440" timestamp="1584602782172" />
+    <state x="1008" y="536" key="NewPhpClassDialog" timestamp="1584602798431">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1008" y="536" key="NewPhpClassDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1584602798431" />
   </component>
 </project>
