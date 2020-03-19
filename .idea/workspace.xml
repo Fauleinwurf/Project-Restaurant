@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33efebce-ed20-4a94-a983-6c644025884e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PHP/CLASSES/_header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CLASSES/_header.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/CLASSES/_header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PHP/CLASSES/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/CLASSES/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -82,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584625807403</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added _header.html&#10;added style.ccs">
+      <created>1584626183340</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584626183340</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,7 +133,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added index.php" />
-    <option name="LAST_COMMIT_MESSAGE" value="added index.php" />
+    <MESSAGE value="added _header.html&#10;added style.ccs" />
+    <option name="LAST_COMMIT_MESSAGE" value="added _header.html&#10;added style.ccs" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1075" y="425" key="#com.intellij.ide.util.MemberChooser.inPresentationMode" />
