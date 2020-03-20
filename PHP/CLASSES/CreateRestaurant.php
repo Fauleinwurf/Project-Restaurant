@@ -8,12 +8,15 @@
     if (!empty($_REQUEST['restaurantName'])) {
 
         $restaurant['restaurantName'] = $_REQUEST['restaurantName'];
-        $restaurant['street'] = $_REQUEST['street'];
-        $restaurant['zipcode'] = $_REQUEST['zipcode'];
+        $restaurant['address'] = $_REQUEST['address'];
+        $restaurant['zip'] = $_REQUEST['zip'];
         $restaurant['place'] = $_REQUEST['place'];
         $restaurant['phoneNumber'] = $_REQUEST['phoneNumber'];
         $restaurant['website'] = $_REQUEST['website'];
         $restaurant['imagePath'] = "../RestaurantLogos/" . $_REQUEST['restaurantName'];
+        $restaurant['validated'] = false;
+        $restaurant['id'] = "";
+        $restaurant['menu'] = ["Pasta", "Pizza"];
 
         $restaurants[] = $restaurant;
         $jsonData = json_encode($restaurants);
@@ -31,13 +34,13 @@
                    class="form-control" required>
         </div>
         <div class="form-group">
-            <label for="street">Street / Nr.</label>
-            <input type="text" id="street" name="street" class="form-control"
+            <label for="address">Street / Nr.</label>
+            <input type="text" id="address" name="address" class="form-control"
                    placeholder="Beispiel: Musterstrasse 32" required>
         </div>
         <div class="form-group">
-            <label for="zipcode">Zipcode</label>
-            <input type="text" id="zipcode" name="zipcode" class="form-control"
+            <label for="zip">Zipcode</label>
+            <input type="text" id="zip" name="zip" class="form-control"
                    placeholder="Beispiel: 8000" required>
         </div>
         <div class="form-group">

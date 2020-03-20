@@ -1,1 +1,17 @@
-[{"id":"5e74837db4953","restaurantName":"frohsinn","validated":false,"website":"www.idk.com","phoneNumber":"0793115523","address":"kirchgasse11a","place":"elgg","zip":9090,"menu":["Pasta"],"imagePath":"idk"},{"id":"5e74837db496f","restaurantName":"frohsinn","validated":false,"website":"www.idk.com","phoneNumber":"0793115523","address":"kirchgasse11a","place":"elgg","zip":9090,"menu":["Pasta"],"imagePath":"idk"}]
+[
+  {
+    "restaurantName": "Frohsinn",
+    "address": "kirchgasse",
+    "zip": "8353",
+    "place": "Elgg",
+    "phoneNumber": "0794208888",
+    "website": "www.frohsinn.ch",
+    "imagePath": "..\/RestaurantLogos\/Frohsinn",
+    "validated": false,
+    "id": "",
+    "menu": [
+      "Pasta",
+      "Pizza"
+    ]
+  }
+]
