@@ -42,6 +42,11 @@
         </map>
       </branch-storage>
     </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="NUFRIO" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
@@ -110,6 +115,10 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1115" y="638" width="355" height="165" key="Github.CreateGistDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1584623924009" />
+    <state x="994" y="438" key="MultipleFileMergeDialog" timestamp="1584709857357">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="994" y="438" key="MultipleFileMergeDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1584709857357" />
     <state x="1008" y="536" key="NewPhpClassDialog" timestamp="1584602798431">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
@@ -122,10 +131,10 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="873" y="455" key="Vcs.Push.Dialog.v2/0.0.2560.1440@0.0.2560.1440" timestamp="1584621306863" />
-    <state x="1090" y="639" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584624165602">
+    <state x="1090" y="639" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584709847370">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="1090" y="639" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1440@0.0.2560.1440" timestamp="1584624165602" />
+    <state x="1090" y="639" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1440@0.0.2560.1440" timestamp="1584709847370" />
     <state x="943" y="325" width="672" height="678" key="search.everywhere.popup" timestamp="1584604246514">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
