@@ -5,12 +5,12 @@ class Restaurant
     private string $restaurantName;
     private string $address;
     private string $place;
-    private int $phoneNumber;
+    private string $phoneNumber;
     private int $zip;
-    private int $website;
+    private string $website;
     private array $menu;
     private string $imagePath;
-    private string $id;
+    private string $id = "";
     private bool $validated;
 
     public function toArray(): Array
@@ -27,11 +27,6 @@ class Restaurant
             "menu" => $this->menu,
             "imagePath" => $this->imagePath
         ];
-    }
-
-    public function __construct()
-    {
-        $this->id = uniqid();
     }
 
     public function changeValidated(): void
@@ -51,6 +46,10 @@ class Restaurant
     {
         $restaurant = New Restaurant();
 
+        if ($restaurantData['id'] == "") $restaurant->id = uniqid();
+        else{$restaurant->id = $restaurantData['id'];}
+        if ($restaurantData['validated'] == true) $restaurant->validated = true;
+        else{$restaurant->validated = false;}
         $restaurant->address = $restaurantData['address'];
         $restaurant->place = $restaurantData['place'];
         $restaurant->zip = $restaurantData['zip'];
@@ -58,8 +57,6 @@ class Restaurant
         $restaurant->phoneNumber = $restaurantData['phoneNumber'];
         $restaurant->menu = $restaurantData['menu'];
         $restaurant->imagePath = $restaurantData['imagePath'];
-        $restaurant->validated = $restaurantData['validated'];
-        $restaurant->id = $restaurantData['id'];
         $restaurant->restaurantName = $restaurantData['restaurantName'];
 
         return $restaurant;
