@@ -6,8 +6,7 @@
     <div class='card mb-5 border border-success'>
         <div class='row'>
             <div class='col-lg-4'>
-                <img class='card-img-top rounded' width='10%' src=''
-                     alt='Error'>
+                <img class='card-img-top rounded' width='10%' src='' alt='Error'>
             </div>
             <div class='col-lg-8'>
                 <div class='card-body'>
@@ -31,7 +30,7 @@
                             </tr>
                             </tbody>
                         </table>
-                        <a href='movie.php?show=$index' class='btn btn-success'>Besuchen</a>
+                        <a class='btn btn-success'>Zur Webseite</a>
                     </li>
                 </ul>
             </div>
