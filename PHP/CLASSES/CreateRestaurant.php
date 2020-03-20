@@ -4,17 +4,20 @@
     <?php require "_header.php" ?>
     <title>Corona Take-Away -> Create</title>
     <?php
-    $restaurants = json_decode(file_get_contents("restaurants.json"), JSON_OBJECT_AS_ARRAY);
-    if (!empty($_REQUEST['restaurantname'])) {
 
-        $restaurant['restaurantname'] = $_REQUEST['restaurantname'];
+    if (!empty($_REQUEST['restaurantName'])) {
+
+        $restaurant['restaurantName'] = $_REQUEST['restaurantName'];
         $restaurant['street'] = $_REQUEST['street'];
         $restaurant['zipcode'] = $_REQUEST['zipcode'];
         $restaurant['place'] = $_REQUEST['place'];
+        $restaurant['phoneNumber'] = $_REQUEST['phoneNumber'];
+        $restaurant['website'] = $_REQUEST['website'];
+        $restaurant['imagePath'] = "../RestaurantLogos/" . $_REQUEST['restaurantName'];
 
         $restaurants[] = $restaurant;
         $jsonData = json_encode($restaurants);
-        file_put_contents("restaurants.json", "$jsonData");
+        file_put_contents("../json/restaurants.json", "$jsonData");
     }
     ?>
 </head>
@@ -23,8 +26,8 @@
 <div class="container mt-4">
     <form method="post" class="needs-validation">
         <div class="form-group">
-            <label for="restaurantname">Restaurant</label>
-            <input type="text" id="restaurantname" name="firstname" placeholder="Beispiel: Marlon"
+            <label for="restaurantName">restaurantName</label>
+            <input type="text" id="restaurantName" name="restaurantName" placeholder="Beispiel: Kebab Treff"
                    class="form-control" required>
         </div>
         <div class="form-group">
@@ -40,6 +43,16 @@
         <div class="form-group">
             <label for="place">Place</label>
             <input type="text" id="place" name="place" class="form-control"
+                   placeholder="Beispiel: Zürich" required>
+        </div>
+        <div class="form-group">
+            <label for="phoneNumber">phoneNumber</label>
+            <input type="tel" id="phoneNumber" name="phoneNumber" class="form-control"
+                   placeholder="Beispiel: 079 404 42 88" required>
+        </div>
+        <div class="form-group">
+            <label for="website">website</label>
+            <input type="text" id="website" name="website" class="form-control"
                    placeholder="Beispiel: Zürich" required>
         </div>
         <button type="submit" class="btn btn-success">Save</button>
