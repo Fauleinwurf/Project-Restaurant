@@ -7,7 +7,37 @@
     "phoneNumber": "0794208888",
     "website": "www.frohsinn.ch",
     "imagePath": "..\/RestaurantLogos\/Frohsinn",
-    "validated": false,
+    "validated": true,
+    "id": "",
+    "menu": [
+      "Pasta",
+      "Pizza"
+    ]
+  },
+  {
+    "restaurantName": "Frohsinn",
+    "address": "kirchgasse",
+    "zip": "8353",
+    "place": "Elgg",
+    "phoneNumber": "0794208888",
+    "website": "www.frohsinn.ch",
+    "imagePath": "..\/RestaurantLogos\/Frohsinn",
+    "validated": true,
+    "id": "",
+    "menu": [
+      "Pasta",
+      "Pizza"
+    ]
+  },
+  {
+    "restaurantName": "Frohsinn",
+    "address": "Rosenweg 33",
+    "zip": "8353",
+    "place": "Elgg",
+    "phoneNumber": "0794208888",
+    "website": "www.frohsinn.ch",
+    "imagePath": "..\/RestaurantLogos\/Frohsinn",
+    "validated": true,
     "id": "",
     "menu": [
       "Pasta",

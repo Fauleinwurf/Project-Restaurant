@@ -129,7 +129,7 @@ class Restaurant
     /**
      * @return int
      */
-    public function getWebsite(): int
+    public function getWebsite(): String
     {
         return $this->website;
     }

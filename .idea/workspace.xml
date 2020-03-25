@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89ced6d2-9910-490f-b3a7-e3d14dc83c06" name="Default Changelist" comment="">
+    <list default="true" id="89ced6d2-9910-490f-b3a7-e3d14dc83c06" name="Default Changelist" comment="sdf">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP/CLASSES/CreateRestaurant.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/CLASSES/CreateRestaurant.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CLASSES/Restaurant.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/CLASSES/Restaurant.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PHP/CLASSES/_header.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/CLASSES/_header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PHP/CLASSES/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/CLASSES/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PHP/json/restaurants.json" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/json/restaurants.json" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +59,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -79,6 +80,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../OOP/Cinema" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
@@ -86,6 +88,18 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\API\scripts\oop_mit_php\home-office\PHP\json" />
     </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -101,6 +115,7 @@
       <workItem from="1584620088225" duration="1935000" />
       <workItem from="1584624044238" duration="318000" />
       <workItem from="1584710165775" duration="2624000" />
+      <workItem from="1585121378730" duration="4822000" />
     </task>
     <task id="LOCAL-00001" summary="sdf">
       <created>1584621301262</created>
@@ -136,46 +151,39 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sdf" />
     <option name="LAST_COMMIT_MESSAGE" value="sdf" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1075" y="425" key="#com.intellij.ide.util.MemberChooser.inPresentationMode" timestamp="1584620816244">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state x="1075" y="425" key="#com.intellij.ide.util.MemberChooser.inPresentationMode/0.0.2560.1440@0.0.2560.1440" timestamp="1584620816244" />
-    <state x="901" y="318" key="CommitChangelistDialog2" timestamp="1584711476214">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state x="901" y="318" key="CommitChangelistDialog2/0.0.2560.1440@0.0.2560.1440" timestamp="1584711476214" />
-    <state x="1115" y="638" width="355" height="165" key="Github.CreateGistDialog" timestamp="1584623924009">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state x="1115" y="638" width="355" height="165" key="Github.CreateGistDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1584623924009" />
-    <state x="994" y="438" key="MultipleFileMergeDialog" timestamp="1584709857357">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state x="994" y="438" key="MultipleFileMergeDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1584709857357" />
-    <state x="1008" y="536" key="NewPhpClassDialog" timestamp="1584602798431">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state x="1008" y="536" key="NewPhpClassDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1584602798431" />
-    <state x="782" y="364" key="SettingsEditor" timestamp="1584604274041">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state x="782" y="364" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1584604274041" />
-    <state x="873" y="455" key="Vcs.Push.Dialog.v2" timestamp="1584711483321">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state x="873" y="455" key="Vcs.Push.Dialog.v2/0.0.2560.1440@0.0.2560.1440" timestamp="1584711483321" />
-    <state x="1090" y="639" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584711585612">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state x="1090" y="639" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1440@0.0.2560.1440" timestamp="1584711585612" />
-    <state x="943" y="325" width="672" height="678" key="search.everywhere.popup" timestamp="1584604246514">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state x="943" y="325" width="672" height="678" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1584604246514" />
+    <state x="1075" y="425" key="#com.intellij.ide.util.MemberChooser.inPresentationMode" />
+    <state x="1075" y="425" key="#com.intellij.ide.util.MemberChooser.inPresentationMode/0.0.2560.1440@0.0.2560.1440" />
+    <state x="901" y="318" key="CommitChangelistDialog2" />
+    <state x="901" y="318" key="CommitChangelistDialog2/0.0.2560.1440@0.0.2560.1440" />
+    <state x="1115" y="638" width="355" height="165" key="Github.CreateGistDialog" />
+    <state x="1115" y="638" width="355" height="165" key="Github.CreateGistDialog/0.0.2560.1440@0.0.2560.1440" />
+    <state x="994" y="438" key="MultipleFileMergeDialog" />
+    <state x="994" y="438" key="MultipleFileMergeDialog/0.0.2560.1440@0.0.2560.1440" />
+    <state x="1008" y="536" key="NewPhpClassDialog" />
+    <state x="1008" y="536" key="NewPhpClassDialog/0.0.2560.1440@0.0.2560.1440" />
+    <state x="782" y="364" key="SettingsEditor" />
+    <state x="782" y="364" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" />
+    <state x="873" y="455" key="Vcs.Push.Dialog.v2" />
+    <state x="873" y="455" key="Vcs.Push.Dialog.v2/0.0.2560.1440@0.0.2560.1440" />
+    <state x="1090" y="639" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" />
+    <state x="1090" y="639" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1440@0.0.2560.1440" />
+    <state x="943" y="325" width="672" height="678" key="search.everywhere.popup" />
+    <state x="943" y="325" width="672" height="678" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" />
   </component>
 </project>
