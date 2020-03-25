@@ -2,20 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89ced6d2-9910-490f-b3a7-e3d14dc83c06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PHP/CLASSES/StartCreateRestaurant.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/img/Corona-img/1Capture.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/img/Corona-img/2Capture.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/img/Corona-img/3Capture.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/img/Corona-img/4Capture.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/img/Corona-img/5Capture.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/img/Corona-img/6Capture.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP/img/Corona-img/Corona-how-do-we-save-us.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/img/Corona-img/1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/img/Corona-img/2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/img/Corona-img/3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/img/Corona-img/4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/img/Corona-img/5.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/img/Corona-img/6.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PHP/CLASSES/CreateRestaurant.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/CLASSES/CreateRestaurant.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP/CLASSES/Show.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/CLASSES/Show.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP/CLASSES/_footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/CLASSES/_footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP/CLASSES/_navbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/CLASSES/_navbar.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PHP/CLASSES/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/CLASSES/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/img/Corona-img/1Capture.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/img/Corona-img/2Capture.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/img/Corona-img/3Capture.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/img/Corona-img/4Capture.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/img/Corona-img/5Capture.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/img/Corona-img/6Capture.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/img/Corona-img/Corona-how-do-we-save-us.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/PHP/json/restaurants.json" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/json/restaurants.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -126,7 +128,7 @@
       <workItem from="1584620088225" duration="1935000" />
       <workItem from="1584624044238" duration="318000" />
       <workItem from="1584710165775" duration="2624000" />
-      <workItem from="1585121378730" duration="7605000" />
+      <workItem from="1585121378730" duration="9381000" />
     </task>
     <task id="LOCAL-00001" summary="sdf">
       <created>1584621301262</created>
@@ -163,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585129377666</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="index.html finished">
+      <created>1585132037046</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585132037046</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

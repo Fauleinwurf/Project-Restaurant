@@ -16,7 +16,7 @@
         $restaurant['imagePath'] = "../RestaurantLogos/" . $_REQUEST['restaurantName'];
         $restaurant['validated'] = false;
         $restaurant['id'] = "";
-        $restaurant['menu'] = ["Pasta", "Pizza"];
+        $restaurant['menu'] = [""];
 
         $restaurants[] = $restaurant;
         $jsonData = json_encode($restaurants);

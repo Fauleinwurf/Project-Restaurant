@@ -7,7 +7,7 @@
     "phoneNumber": "079 111 11 11",
     "website": "www.google.ch",
     "imagePath": "..\/RestaurantLogos\/Hirschen",
-    "validated": false,
+    "validated": true,
     "id": "",
     "menu": [
       "Pasta",
