@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89ced6d2-9910-490f-b3a7-e3d14dc83c06" name="Default Changelist" comment="sdf">
+    <list default="true" id="89ced6d2-9910-490f-b3a7-e3d14dc83c06" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/PHP/CLASSES/StartCreateRestaurant.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/img/Corona-img/1Capture.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/img/Corona-img/2Capture.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/img/Corona-img/3Capture.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/img/Corona-img/4Capture.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/img/Corona-img/5Capture.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/img/Corona-img/6Capture.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/img/Corona-img/Corona-how-do-we-save-us.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP/CLASSES/Restaurant.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/CLASSES/Restaurant.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP/CLASSES/_header.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/CLASSES/_header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CLASSES/CreateRestaurant.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/CLASSES/CreateRestaurant.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CLASSES/Show.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/CLASSES/Show.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CLASSES/_footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/CLASSES/_footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CLASSES/_navbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/CLASSES/_navbar.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PHP/CLASSES/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/CLASSES/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PHP/json/restaurants.json" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/json/restaurants.json" afterDir="false" />
     </list>
@@ -86,6 +96,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vitus\Desktop\ZLI\Applikationsentwicklung\Scripts\PHP\PHP-HTML\Corona-Project\PHP\img\Corona-img" />
       <recent name="D:\API\scripts\oop_mit_php\home-office\PHP\json" />
     </key>
   </component>
@@ -115,7 +126,7 @@
       <workItem from="1584620088225" duration="1935000" />
       <workItem from="1584624044238" duration="318000" />
       <workItem from="1584710165775" duration="2624000" />
-      <workItem from="1585121378730" duration="4822000" />
+      <workItem from="1585121378730" duration="7605000" />
     </task>
     <task id="LOCAL-00001" summary="sdf">
       <created>1584621301262</created>
@@ -145,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584711478491</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="index.html finished">
+      <created>1585129377666</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585129377666</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,7 +182,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sdf" />
-    <option name="LAST_COMMIT_MESSAGE" value="sdf" />
+    <MESSAGE value="index.html finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="index.html finished" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1075" y="425" key="#com.intellij.ide.util.MemberChooser.inPresentationMode" />
