@@ -2,7 +2,7 @@
     <!-- Navigation Bar Header-->
     <nav class="navbar navbar-expand-sm navbar-light bg-light">
         <!-- Left Side (Pic,Home...) -->
-        <a href="index.php"><img src="./img/M.Megna-Logo.PNG" width="50" height="30" alt="Logo" title="Logo Megna"></a>
+        <a href="index.php"><img src="../img/LOGO.jpg" width="50" height="30" alt="Logo" title="Logo Megna"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent"
                 aria-controls="navbarSupportedContent navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle-navigation">
             <span class="navbar-toggler-icon"></span>

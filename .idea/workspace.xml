@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="89ced6d2-9910-490f-b3a7-e3d14dc83c06" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP/CLASSES/CreateRestaurant.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/CLASSES/CreateRestaurant.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP/CLASSES/_header.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/CLASSES/_header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP/CLASSES/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/CLASSES/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP/json/restaurants.json" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/json/restaurants.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CLASSES/_footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/CLASSES/_footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/CLASSES/_navbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/CLASSES/_navbar.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +73,7 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -101,6 +100,7 @@
       <workItem from="1584620088225" duration="1935000" />
       <workItem from="1584624044238" duration="318000" />
       <workItem from="1584710165775" duration="2624000" />
+      <workItem from="1585129252888" duration="1024000" />
     </task>
     <task id="LOCAL-00001" summary="sdf">
       <created>1584621301262</created>
@@ -169,6 +169,10 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="873" y="455" key="Vcs.Push.Dialog.v2/0.0.2560.1440@0.0.2560.1440" timestamp="1584711483321" />
+    <state x="314" y="184" key="com.intellij.ide.util.TipDialog" timestamp="1585129254159">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="314" y="184" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1585129254159" />
     <state x="1090" y="639" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584711585612">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
