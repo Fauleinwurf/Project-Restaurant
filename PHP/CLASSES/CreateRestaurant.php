@@ -16,7 +16,7 @@
         $restaurant['imagePath'] = "../RestaurantLogos/" . $_REQUEST['restaurantName'];
         $restaurant['validated'] = false;
         $restaurant['id'] = "";
-        $restaurant['menu'] = ["Pasta", "Pizza"];
+        $restaurant['menu'] = [""];
 
         $restaurants[] = $restaurant;
         $jsonData = json_encode($restaurants);
@@ -29,8 +29,8 @@
 <div class="container mt-4">
     <form method="post" class="needs-validation">
         <div class="form-group">
-            <label for="restaurantName">restaurantName</label>
-            <input type="text" id="restaurantName" name="restaurantName" placeholder="Beispiel: Kebab Treff"
+            <label for="restaurantName">Restaurantname</label>
+            <input type="text" id="restaurantName" name="restaurantName" placeholder="Beispiel: Hirschen"
                    class="form-control" required>
         </div>
         <div class="form-group">
@@ -49,16 +49,16 @@
                    placeholder="Beispiel: Zürich" required>
         </div>
         <div class="form-group">
-            <label for="phoneNumber">phoneNumber</label>
+            <label for="phoneNumber">Telefonnummer</label>
             <input type="tel" id="phoneNumber" name="phoneNumber" class="form-control"
-                   placeholder="Beispiel: 079 404 42 88" required>
+                   placeholder="Beispiel: 079 111 11 11" required>
         </div>
         <div class="form-group">
-            <label for="website">website</label>
+            <label for="website">Webseite</label>
             <input type="text" id="website" name="website" class="form-control"
-                   placeholder="Beispiel: Zürich" required>
+                   placeholder="Beispiel: www.google.ch" required>
         </div>
-        <button type="submit" class="btn btn-success">Save</button>
+        <button type="submit" class="btn btn-success">Absenden</button>
     </form>
 </div>
 

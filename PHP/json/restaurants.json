@@ -1,13 +1,13 @@
 [
   {
-    "restaurantName": "Frohsinn",
-    "address": "kirchgasse",
-    "zip": "8353",
-    "place": "Elgg",
-    "phoneNumber": "0794208888",
-    "website": "www.frohsinn.ch",
-    "imagePath": "..\/RestaurantLogos\/Frohsinn",
-    "validated": false,
+    "restaurantName": "Hirschen",
+    "address": "Rosenweg 33",
+    "zip": "8888",
+    "place": "Z\u00fcrich",
+    "phoneNumber": "079 111 11 11",
+    "website": "www.google.ch",
+    "imagePath": "..\/RestaurantLogos\/Hirschen",
+    "validated": true,
     "id": "",
     "menu": [
       "Pasta",
