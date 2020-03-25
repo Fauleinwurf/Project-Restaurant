@@ -13,5 +13,20 @@
       "Pasta",
       "Pizza"
     ]
+  },
+  {
+    "restaurantName": "Kebab Treff",
+    "address": "Bahnhostrasse 88",
+    "zip": "8353",
+    "place": "elgg",
+    "phoneNumber": "0792323322",
+    "website": "www.kebabtreff.ch",
+    "imagePath": "..\/RestaurantLogos\/Kebab Treff",
+    "validated": false,
+    "id": "",
+    "menu": [
+      "Pasta",
+      "Pizza"
+    ]
   }
 ]

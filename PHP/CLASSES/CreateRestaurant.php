@@ -15,12 +15,12 @@
         $restaurant['website'] = $_REQUEST['website'];
         $restaurant['imagePath'] = "../RestaurantLogos/" . $_REQUEST['restaurantName'];
         $restaurant['validated'] = false;
-        $restaurant['id'] = "";
+        $restaurant['id'] = uniqid();
         $restaurant['menu'] = [""];
 
         $restaurants[] = $restaurant;
         $jsonData = json_encode($restaurants);
-        file_put_contents("../json/restaurants.json", "$jsonData");
+        file_put_contents("../json/restaurants.json", "$jsonData", FILE_APPEND);
     }
     ?>
 </head>
